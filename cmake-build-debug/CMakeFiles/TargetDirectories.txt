@@ -1,0 +1,3 @@
+/Users/anoushmovsisian/projects/algorithms-hw/untitled/cmake-build-debug/CMakeFiles/buses1.dir
+/Users/anoushmovsisian/projects/algorithms-hw/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anoushmovsisian/projects/algorithms-hw/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
